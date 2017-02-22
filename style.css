@@ -6,6 +6,7 @@ body{
 ul{
     display: block;
     list-style-type: disc;
+    
 /*
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
@@ -13,4 +14,16 @@ ul{
     -webkit-margin-end: 0px;
     -webkit-padding-start: 40px;
 */
+}
+lol{
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+    color: dimgrey;
+}
+
+p{
+text-align: center;
+    font-size: 24;
+    font-family: 'Arial';
 }

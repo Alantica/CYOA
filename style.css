@@ -20,13 +20,23 @@ lol{
     font-size: 2em;
     font-family: sans-serif;
     color: dimgrey;
+    text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
 }
 
 p{
 text-align: center;
     font-size: 24;
     font-family: 'Arial';
-    color: antiquewhite;
+    color: floralwhite;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 halp{
